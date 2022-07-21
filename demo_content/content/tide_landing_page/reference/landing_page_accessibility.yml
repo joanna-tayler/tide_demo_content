@@ -14,7 +14,7 @@
   field_landing_page_intro_text: Accessibility information about this website
   field_landing_page_summary: Accessibility information about this website. We endeavour to conform to level AA of the W3C Web Content Accessibility Guidelines 2.0.
   # Content Components.
-  field_show_table_of_content: 1
+  field_show_table_of_content: 0
   field_landing_page_component:
     # Basic Text.
     - entity: paragraph
